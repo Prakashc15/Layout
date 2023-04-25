@@ -18,56 +18,147 @@
 </div>
 </div>
 </section>
-<section>
+<section class="one">
 <div class="container">
 <div class="row">
-<div class="col-2">
+<div class="col-1">
 <div class="item-left"></div>
 </div>
-<div class="col-2">
-<div class="item-right"></div>
-</div>
-<div class="col-2">
-<div class="item-left"></div>
-</div>
-</div>
-</div>
-</section>
-<section>
-<div class="container">
-<div class="row">
-<div class="col-3">
-<div class="item-left"></div>
-</div>
-<div class="col-3">
-<div class="item-right"></div>
-</div>
-<div class="col-3">
-<div class="item-left"></div>
-</div>
-<div class="col-3">
+<div class="col-1">
 <div class="item-right"></div>
 </div>
 </div>
 </div>
 </section>
-<section>
+<section class="two">
+<div class="container">
+<div class="row">
+<div class="col-2">
+<div class="item-left"></div>
+</div>
+<div class="col-2">
+<div class="item-right"></div>
+</div>
+<div class="col-2">
+<div class="item-left"></div>
+</div>
+<div class="col-2">
+<div class="item-right"></div>
+</div>
+</div>
+</div>
+</section>
+<section class="four">
 <div class="container">
 <div class="row">
 <div class="col-4">
-<div class="item-left"></div>
-</div>
-<div class="col-4">
 <div class="item-right"></div>
 </div>
-<div class="col-4">
+</div>
+</div>
+</section>
+<section class="three">
+<div class="container">
+<div class="row">
+<div class="col-3">
 <div class="item-left"></div>
 </div>
-<div class="col-4">
+<div class="col-3">
 <div class="item-right"></div>
 </div>
-<div class="col-4">
+<div class="col-3">
 <div class="item-left"></div>
+</div>
+<div class="col-3">
+<div class="item-right"></div>
+</div>
+<div class="col-3">
+<div class="item-left"></div>
+</div>
+<div class="col-3">
+<div class="item-right"></div>
+</div>
+</div>
+</div>
+</section>
+<section class="five">
+<div class="container">
+<div class="row">
+<div class="col-5">
+<div class="item-right"></div>
+</div>
+</div>
+</div>
+</section>
+<section class="six">
+<div class="container">
+<div class="row">
+<div class="col-6">
+<div class="item-left"></div>
+</div>
+<div class="col-6">
+<div class="item-right"></div>
+</div>
+<div class="col-6">
+<div class="item-left"></div>
+</div>
+</div>
+</div>
+</section>
+</section>
+<section class="seven">
+<div class="container">
+<div class="row">
+<div class="col-7">
+<div class="item-left"></div>
+</div>
+<div class="col-7">
+<div class="item-right"></div>
+</div>
+<div class="col-7">
+<div class="item-left"></div>
+</div>
+</div>
+</div>
+</section>
+<section class="eight">
+<div class="container">
+<div class="row">
+<div class="col-8">
+<div class="item-left"></div>
+</div>
+<div class="col-8">
+<div class="item-right"></div>
+</div>
+</div>
+</div>
+</section>
+<section class="nine">
+<div class="container">
+<div class="row">
+<div class="col-9">
+<div class="item-left"></div>
+</div>
+<div class="col-9">
+<div class="item-right"></div>
+</div>
+<div class="col-9">
+<div class="item-left"></div>
+</div>
+<div class="col-9">
+<div class="item-right"></div>
+</div>
+<div class="col-9">
+<div class="item-left"></div>
+</div>
+</div>
+</div>
+</section>
+<section class="ten">
+<div class="container">
+<div class="row">
+<div class="col-10">
+<div class="item-right"></div>
 </div>
 </div>
 </div>

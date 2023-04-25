@@ -2,11 +2,14 @@
 	margin:0;
 	padding:0;
 	box-sizing:border-box;
-	background-color:lime;
 }
 h1{
 	text-align:center;
 	font-size:70px;
+}
+section{
+	padding:40px 0;
+	background-color:blue;
 }
 .container{
 	width:1340px;
@@ -20,9 +23,6 @@ h1{
 	width:50%;
 	padding:0 15px;
 }
-section{
-	padding:40px 0;
-}
 .item-left{
 	background-color:red;
 	height:300px;
@@ -31,19 +31,76 @@ section{
 	background-color:hotpink;
 	height:300px;
 }
-.col-2{
-	width:33.33%;
-	padding:0 15px;
+.one{
+	padding:40px 0;
+	background-color:yellow;
 }
-.col-3{
+.two{
+	padding:40px 0;
+	background-color:lime;
+}
+.col-2{
 	width:25%;
 	padding:0 15px;
 }
-.col-4{
-	width:20%;
+.four{
+	padding:40px 0;
+	background-color:gray;
+}
+.three{
+	padding:40px 0;
+	background-color:skyblue;
+}
+.col-3{
+	width:33.33%;
 	padding:0 15px;
+}
+.five{
+	padding:40px 0;
+	background-color:gray;
 }
 .col-5{
-	width:15%;
+	width:100%;
 	padding:0 15px;
 }
+.six{
+	padding:40px 0;
+	background-color:lightgreen;
+}
+.col-6{
+	width:33.33%;
+	padding:0 15px;
+}
+.seven{
+	padding:40px 0;
+	background-color:skyblue;
+}
+.col-7{
+	width:33.33%;
+	padding:0 15px;
+}
+.eight{
+	padding:40px 0;
+	background-color:green;
+}
+.col-8{
+	width:50%;
+}
+.nine{
+	padding:40px 0;
+	background-color:yellow;
+}
+.col-9{
+	width:20%;
+}
+.ten{
+	padding:40px 0;
+	background-color:lightgray;
+}
+.col-10{
+	width:100%;
+	padding:0 15px;
+}
+
+
+
