@@ -7,6 +7,19 @@ h1{
 	text-align:center;
 	font-size:70px;
 }
+.zero{
+	padding:40px 0;
+	background-color:black;
+		position: sticky;
+  top: 0;
+}
+.col-0{
+	width:10%;
+	height:40px;
+	padding:0 15px;
+	background-color: gold;
+
+}
 section{
 	padding:40px 0;
 	background-color:blue;
