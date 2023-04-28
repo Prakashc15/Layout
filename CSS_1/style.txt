@@ -3,22 +3,6 @@
 	padding:0;
 	box-sizing:border-box;
 }
-h1{
-	text-align:center;
-	font-size:70px;
-}
-.zero{
-	padding:40px 0;
-	background-color:blue;
-}
-.col-0{
-	width:10%;
-	padding:0 15px;
-}
-section{
-	padding:40px 0;
-	background-color:blue;
-}
 .container{
 	width:1340px;
 	margin:0 auto;
@@ -26,89 +10,233 @@ section{
 .row{
 	display:flex;
 	flex-wrap:wrap;
+	align-items:center;
+	justify-content:space-around;
 }
 .col-1{
-	width:50%;
+	width:8.33%;
 	padding:0 15px;
 }
-.item-left{
-	background-color:red;
-	height:300px;
-}
-.item-right{
-	background-color:hotpink;
-	height:300px;
-}
-.one{
-	padding:40px 0;
-	background-color:yellow;
-}
-.two{
-	padding:40px 0;
-	background-color:lime;
-}
 .col-2{
+	width:16.66%;
+	padding:0 15px;
+}
+.col-3{
 	width:25%;
 	padding:0 15px;
 }
-.four{
-	padding:40px 0;
-	background-color:gray;
-}
-.three{
-	padding:40px 0;
-	background-color:skyblue;
-}
-.col-3{
+.col-4{
 	width:33.33%;
 	padding:0 15px;
-}
-.five{
-	padding:40px 0;
-	background-color:gray;
 }
 .col-5{
-	width:100%;
+	width:41.66%;
 	padding:0 15px;
-}
-.six{
-	padding:40px 0;
-	background-color:lightgreen;
 }
 .col-6{
-	width:33.33%;
+	width:50%;
 	padding:0 15px;
-}
-.seven{
-	padding:40px 0;
-	background-color:skyblue;
 }
 .col-7{
-	width:33.33%;
+	width:58.33%;
 	padding:0 15px;
 }
-.eight{
-	padding:40px 0;
-	background-color:green;
-}
 .col-8{
-	width:50%;
-}
-.nine{
-	padding:40px 0;
-	background-color:yellow;
+	width:66.66%;
+	padding:0 15px;
 }
 .col-9{
-	width:20%;
-}
-.ten{
-	padding:40px 0;
-	background-color:lightgray;
+	width:75%;
+	padding:0 15px;
 }
 .col-10{
+	width:83.33%;
+	padding:0 15px;
+}
+.col-11{
+	width:91.66%;
+	padding:0 15px;
+}
+.col-12{
 	width:100%;
 	padding:0 15px;
 }
+.zero{
+	background-color:#ff00ff;
+	padding:40px 0;
+	position:sticky;
+	top:0px;
+}
+.bg1{
+	background-color:#ff0000;
+	height:60px;
+}
+.bg2{
+	background-color:#0033cc;
+	height:60px;
+}
+.one{
+	background-color:#669999;
+	padding:40px 0;
+}
+.bg3{
+	background-color:#ff0000;
+	height:550px;
+}
+.bg4{
+	background-color:#0033cc;
+	height:550px;
+}
+.two{
+	background-color:#00ff55;
+	padding:40px 0;
+}
+.bg5{
+	background-color:#ff0000;
+	height:750px;
+}
+.bg6{
+	background-color:#0033cc;
+	height:750px;
+}
+.three{
+	background-color:#ccff33;
+	padding:40px 0;
+}
+.bg7{
+	background-color:#ff0000;
+	height:400px;
+}
+.bg8{
+	background-color:#0033cc;
+	height:350px;
+}
+.four{
+	background-color:#00ff00;
+	padding:40px 0;
+}
+.bg9{
+	background-color:#ff0000;
+	height:200px;
+}
+.bg10{
+	background-color:#0033cc;
+	height:200px;
+}
+.five{
+	background-color:#cc9900;
+	padding:40px 0;
+}
+.bg12{
+	background-color:#ff0000;
+	height:300px;
+	margin-top:50px;
+	align-items: center;
+	justify-content:space-around;
+}
+.bg11{
+	background-color:#0033cc;
+	height:300px;
+	margin-top:50px;
+	align-items: center;
+	justify-content:space-around;
+}
+.six{
+	background-color: #0000cc;
+	padding:40px 0;
+}
+.bg13{
+	background-color:#ffff00;
+	height:300px;
+	margin-top:50px;
+	align-items: center;
+	justify-content: center;
+}
+.col-4-1{
+	width:33.33%;
+	/* padding:0 15px; */
+}
+.seven{
+	background-color: #00ff00;
+	padding:40px 0;
+	margin:0;
+}
+.bg14{
+	background-color:#ff0000;
+	height:500px;
+}
+.bg15{
+	background-color:#0033cc;
+	height:500px;
+}
+.eight{
+	background-color: #ff0080;
+	padding:40px 0;
+}
+.bg16{
+	background-color:#ff0000;
+	height:500px;
+}
+.bg17{
+	background-color:#0033cc;
+	height:500px;
+}
+.col-6-1{
+	width:50%;
+	/* padding:0 15px; */
+}
+.nine{
+	background-color: #b3ffb3;
+	padding:40px 0;
+}
+.bg16{
+	background-color:#ff0000;
+	height:500px;
+}
+.bg17{
+	background-color:#0033cc;
+	height:500px;
+}
+.ten{
+	background-color:#cc9900;
+	padding:40px 0;
+}
+.col-2-1{
+	width:16.66%;
+	/* padding:0 15px; */
+}
+.bg18{
+	background-color:#ff0000;
+	height:300px;
+}
+.bg19{
+	background-color:#0033cc;
+	height:300px;
+}
+.elaven{
+	background-color: #ff0080;
+	padding:40px 0;
+}
+.bg20{
+	background-color:#ffff00;
+	height:300px;
+	margin-top:50px;
+	align-items: center;
+	justify-content: center;
+}
+.twele{
+	background-color:#cc9900;
+	padding:40px 0;
+}
+.bg21{
+	background-color:#ff0000;
+	height:50px;
+}
+.bg22{
+	background-color:#0033cc;
+	height:50px;
+}
+
 
 
 
